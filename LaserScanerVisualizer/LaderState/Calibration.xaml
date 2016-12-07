@@ -1,0 +1,128 @@
+﻿<Window x:Class="LaderState.Calibration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LaderState"
+        mc:Ignorable="d"
+        Title="Calibration" Height="600" Width="800" AllowsTransparency="True" WindowStyle="None" Background="Gray" BorderBrush="Black" BorderThickness="5" ResizeMode="CanResizeWithGrip" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=" 3*"/>
+            <ColumnDefinition Width=" *"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <GroupBox Header="SensorData" Margin="0,0,0,0" Background="White" BorderBrush="Blue" Foreground="Black">
+                <Grid x:Name="Grid_Main" Margin="2,2,2,2" HorizontalAlignment="Center" Height="756" Width="756">
+
+                    <Canvas Margin="3,3,3,3" x:Name="Canvas_Lader" Opacity="1" Width="750" Height="750" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+
+                    <TextBlock Margin="0,363,736,363" Text="0" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,268.5,736,457.5" Text="5" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,457.5,736,268.5" Text="5" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,552,736,174" Text="10" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,174,736,552" Text="10" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,646.5,736,79.5" Text="15" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,79.5,736,646.5" Text="15" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,0,736,741" Text="20" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,741,736,0" Text="20" FontSize="15" VerticalAlignment="Center" />
+                    <TextBlock Margin="741,0,0,741" Text="20" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="646.5,0,79.5,741" Text="15" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="79.5,0,646.5,741" Text="15" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="552,0,174,741" Text="10" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="174,0,552,741" Text="10" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="457.5,0,268.5,741" Text="5" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="268.5,0,457.5,741" Text="5" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="363,0,363,741" Text="0" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+                    <!--
+                    <TextBlock Margin="0,363,736,363" Text="0" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,268.5,736,457.5" Text="2" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,457.5,736,268.5" Text="2" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,552,736,174" Text="4" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,174,736,552" Text="4" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,646.5,736,79.5" Text="6" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,79.5,736,646.5" Text="6" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,0,736,741" Text="8" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="0,741,736,0" Text="8" FontSize="13" VerticalAlignment="Center" />
+                    <TextBlock Margin="741,0,0,741" Text="8" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="646.5,0,79.5,741" Text="6" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="79.5,0,646.5,741" Text="6" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="552,0,174,741" Text="4" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="174,0,552,741" Text="4" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="457.5,0,268.5,741" Text="2" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="268.5,0,457.5,741" Text="2" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock Margin="363,0,363,741" Text="0" FontSize="13" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    -->
+                </Grid>
+            </GroupBox>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <StackPanel >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Rotation : " FontSize="20" Foreground="White"/>
+                        <TextBox Text="0" x:Name="Rotation_value" Background="{x:Null}" FontSize="20" Foreground="White"/>
+
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="X : " FontSize="20" Foreground="White"/>
+                        <TextBox Text="0" x:Name="X_Value" Background="{x:Null}" FontSize="20" Foreground="White"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Y : " FontSize="20" Foreground="White"/>
+                        <TextBox Text="0" x:Name="Y_Value" Background="{x:Null}" FontSize="20" Foreground="White"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="ChangeVal : " FontSize="20" Foreground="White"/>
+                        <TextBox Text="10" x:Name="Text_Cahnge_Value" Background="{x:Null}" FontSize="20" Foreground="White"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="IPadress : " FontSize="20" Foreground="White"/>
+                        <TextBox Text="127.0.0.1" x:Name="IPadress" BorderBrush="{x:Null}" Background="{x:Null}" FontSize="20" Foreground="White"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="RemortPort : " FontSize="20" Foreground="White"/>
+                        <TextBox Text="53000" x:Name="Remote_port" Background="{x:Null}" FontSize="20" Foreground="White"/>
+
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Serverport : " FontSize="20" Foreground="White"/>
+                        <TextBox Text="12000" x:Name="Server_port" Background="{x:Null}" FontSize="20" Foreground="White"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="+ x" Name="Button_Plus_x"  Width="100" Click="Button_Plus_x_Click"/>
+                        <Button Content="- x" Name="Button_Minus_x"  Width="100" Click="Button_Minus_x_Click"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="+ y" Name="Button_Plus_y"  Width="100" Click="Button_Plus_y_Click"/>
+                        <Button Content="- y" Name="Button_Minus_y"  Width="100" Click="Button_Minus_y_Click"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="+ deg" Name="Button_Plus_deg"  Width="100" Click="Button_Plus_deg_Click"/>
+                        <Button Content="- deg" Name="Button_Minus_deg"  Width="100" Click="Button_Minus_deg_Click"/>
+                    </StackPanel>
+                    <Button Content="Get_Background_start" Name="Button_Background_once" Click="Button_Background_once_Click"/>
+                    <Button Content="Get_Background_stop" Name="Button_Background_end" Click="Button_Background_end_Click"/>
+
+                    <Button Content="Write Self Env" Name="Button_Write_self_env" Click="Button_Write_self_env_Click"/>
+                    <Button Content="Write Client1_Env" Name="Button_Write_Client1_Env" Click="Button_Write_Client1_Env_Click"/>
+                    <Button Content="Calib_send_side" Name="Button_calib_sendside" Click="Button_calib_sendside_Click"/>
+                    <Button Content="Calib_receive_side" Name="Button_calib_receive_side" Click="Button_calib_receive_side_Click"/>
+                    <Button Content="Send_Background_data" Name="Button_calib_send_backgrounddata" Click="Button_calib_send_backgrounddata_Click"/>
+                </StackPanel>
+            </Grid>
+
+        </Grid>
+        
+        </Grid>
+</Window>

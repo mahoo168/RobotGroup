@@ -1,0 +1,1149 @@
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\bin\Debug\LaderState.exe
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\bin\Debug\LaderState.pdb
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\PersonNum.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\MainWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\mywindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\App.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\App.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\Calibration.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState.exe
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState.pdb
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState.exe
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState.pdb
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\bin\Debug\LaderState.exe
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\bin\Debug\LaderState.pdb
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\PersonNum.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\MainWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\mywindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\App.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\App.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\Calibration.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_05_24_背景学習+特徴点検出完成\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.exe
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.pdb
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\LaderState.exe
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\LaderState.pdb
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\PersonNum.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\MainWindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\mywindow.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\App.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\App.g.cs
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\Calibration.baml
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\sugano\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState.exe
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState.pdb
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\bin\Debug\LaderState.exe
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\bin\Debug\LaderState.pdb
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\PersonNum.baml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\MainWindow.baml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\mywindow.baml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\App.baml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\App.g.cs
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\Calibration.baml
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\kent\Desktop\菅野\2016_07_04\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_04\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_21_robot+surround\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_21_robot+surround\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_21_robot+surround\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_29_robot+surround\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_07_30_robot+特徴点座標保存\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_01_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_02_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03_robot+ロボット側とのシステム統合\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_03-2_robot+ロボット側とのシステム統合 - コピー\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_ロボット姿勢算出\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_2ロボット姿勢算出\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+ロボット制御\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_08_07_3システム全て統合完了+目標点追加+ロボットへの制御関数\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_05システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数 - コピー\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_06システム全て統合完了+目標点追加+ロボットへの制御関数+エラー改善+尤度評価\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_15_角度取得_改善\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_16_角度取得_改善\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_23_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_29_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_09_30_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_12_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_18_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_21_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_25_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_25_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_25_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_26_ロボ親＋SoundGenerater\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_10_27_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_ロボ親＋SoundGenerater_アーカイブ追加\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_01_人取得親機\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.pdb
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\App.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\App.g.cs
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.baml
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\fksm\Documents\Visual Studio 2015\Projects\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.exe
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.pdb
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.pdb
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.baml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.baml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.baml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\App.baml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\App.g.cs
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.baml
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\LabRoom\Desktop\sugano\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+H:\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe.config
+H:\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.exe
+H:\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.pdb
+J:\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe.config
+J:\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.exe
+J:\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.pdb
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe.config
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.exe
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.pdb
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.pdb
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.dll
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.xml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.baml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.baml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.baml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.baml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\App.baml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.g.cs
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.g.cs
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.g.cs
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.g.cs
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\App.g.cs
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.baml
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.g.resources
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+C:\Users\maho\Desktop\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe.config
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.exe
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.pdb
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.exe
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\bin\Debug\LaderState.pdb
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.dll
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\bin\Debug\OpenCV.Net.xml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.baml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.baml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.baml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.baml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\App.baml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.g.cs
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\PersonNum.g.cs
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\mywindow.g.cs
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\App.g.cs
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\Calibration.baml
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.g.resources
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+D:\VisualStudio\2016_11_02_人取得親機\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+J:\VisualStudio\SICK_親機\LaderState\bin\Debug\LaderState.exe.config
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.exe
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.pdb
+J:\VisualStudio\SICK_親機\LaderState\bin\Debug\LaderState.exe
+J:\VisualStudio\SICK_親機\LaderState\bin\Debug\LaderState.pdb
+J:\VisualStudio\SICK_親機\LaderState\bin\Debug\OpenCV.Net.dll
+J:\VisualStudio\SICK_親機\LaderState\bin\Debug\OpenCV.Net.xml
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\MainWindow.baml
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\MainWindow.baml
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\App.baml
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\Calibration.g.cs
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\MainWindow.g.cs
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\App.g.cs
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\Calibration.baml
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.g.resources
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+J:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+D:\VisualStudio\SICK_親機\LaderState\bin\Debug\LaderState.exe.config
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.exe
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.pdb
+D:\VisualStudio\SICK_親機\LaderState\bin\Debug\LaderState.exe
+D:\VisualStudio\SICK_親機\LaderState\bin\Debug\LaderState.pdb
+D:\VisualStudio\SICK_親機\LaderState\bin\Debug\OpenCV.Net.dll
+D:\VisualStudio\SICK_親機\LaderState\bin\Debug\OpenCV.Net.xml
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\MainWindow.baml
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\MainWindow.baml
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\App.baml
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\Calibration.g.cs
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\App.g.cs
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\Calibration.baml
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.g.resources
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+D:\VisualStudio\SICK_親機\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+D:\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe.config
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.exe
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.pdb
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.baml
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.baml
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\App.baml
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.g.cs
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\App.g.cs
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+J:\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe.config
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.exe
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.pdb
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.baml
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.baml
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\App.baml
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.g.cs
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.g.cs
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\App.g.cs
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+D:\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe
+D:\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.pdb
+D:\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.dll
+D:\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.xml
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.baml
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.g.resources
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+D:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+J:\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe
+J:\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.pdb
+J:\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.dll
+J:\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.xml
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.baml
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.g.resources
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+J:\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+J:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe.config
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.exe
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.pdb
+J:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe
+J:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.pdb
+J:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.dll
+J:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.xml
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.baml
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.baml
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\App.baml
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.g.cs
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.g.cs
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\App.g.cs
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.baml
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.g.resources
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+J:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+D:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe.config
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.exe
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.pdb
+D:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.exe
+D:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\LaderState.pdb
+D:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.dll
+D:\Programs\VisualStudio\SICK_改\LaderState\bin\Debug\OpenCV.Net.xml
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csprojResolveAssemblyReference.cache
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.baml
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.baml
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.baml
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\App.baml
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.g.cs
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\CIPCSettingWindow.g.cs
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\CIPC\MainWindow.g.cs
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\MainWindow.g.cs
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\App.g.cs
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.cache
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState_MarkupCompile.lref
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.baml
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.g.resources
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.Properties.Resources.resources
+D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
