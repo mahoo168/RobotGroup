@@ -92,6 +92,7 @@
     <Compile Include="Mahoo\Sick_Dak_Main.cs" />
     <Compile Include="Mahoo\Sick_Dak_Robot.cs" />
     <Compile Include="Mahoo\SoundCreate.cs" />
+    <Compile Include="Mahoo\TCPClient.cs" />
     <Compile Include="Mahoo\UDPClient.cs" />
     <Compile Include="SerialConection.cs" />
     <Compile Include="sick_dak.cs" />

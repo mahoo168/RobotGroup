@@ -197,13 +197,12 @@ namespace LaderState
         //保存
         String filePath;
         //Sick on Robot
-        #region
         private static System.Timers.Timer timer_robot_info;
         public _featureData getFeatureData_robot;
         //ロボット制御用
+        UDPClient client_Robot;
         public List<System.Windows.Point> List_Purpose_Point;
         public System.Windows.Point Purpose_Point = new System.Windows.Point(0, 0);
-        #endregion
         //Sick sub
         public bool Mode_Second_sensor_attach = true;
         public CIPC_CS.CLIENT.CLIENT reciever_client_attach;
@@ -399,16 +398,6 @@ namespace LaderState
                 this.timre_personPos.Start();
             }
             catch { }      
-
-        }
-        public void Connect_Robot()
-        {
-            //ロボットからの特徴点を解析するタイマー
-            timer_robot_info = new System.Timers.Timer(1000);
-            timer_robot_info.Elapsed += new ElapsedEventHandler(getRobotinfo);
-            timer_robot_info.AutoReset = true;
-            timer_robot_info.Interval = 40;
-            timer_robot_info.Enabled = true;
 
         }
 
@@ -1106,6 +1095,35 @@ namespace LaderState
         //SICK on Robot とのデータ授受
         #region
         //特徴点を解析(timer_robot_infoタイマーで回す）
+        public void ConnectUDP_Robot(string ip, int port)
+        {
+            if(this.client_Robot == null)
+            {
+                this.client_Robot = new UDPClient();
+                this.client_Robot.Client_setup_reciever(ip, port);
+                this.client_Robot.data_recieved += this.getData_RobotFeaturePt;
+
+                //ロボットからの特徴点を解析するタイマー
+                timer_robot_info = new System.Timers.Timer(1000);
+                timer_robot_info.Elapsed += new ElapsedEventHandler(getRobotinfo);
+                timer_robot_info.AutoReset = true;
+                timer_robot_info.Interval = 30;
+                timer_robot_info.Enabled = true;
+            }
+        }
+        void getData_RobotFeaturePt(object sender, byte[] e)
+        {
+            try
+            {
+                int len = BitConverter.ToInt32(e, 0);
+                for(int i = 0; i < len; i++)
+                {
+                    this.featurePoint_from_rob[i].X = BitConverter.ToInt32(e, 4 + i * 4);
+                    this.featurePoint_from_rob[i].Y = BitConverter.ToInt32(e, 4 + i * 4 + 4);
+                }
+            }
+            catch { }
+        }
         void getRobotinfo(object sender, EventArgs e)
         {
             if (this.getFeatureData_robot != null)

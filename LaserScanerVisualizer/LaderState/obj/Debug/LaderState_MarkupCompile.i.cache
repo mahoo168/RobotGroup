@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\
+D:\Programs\workspace\RobotGroup\LaserScanerVisualizer\LaderState\obj\Debug\
 LaderState
 none
 false
 DEBUG;TRACE
-D:\Programs\VisualStudio\SICK_改\LaderState\App.xaml
+D:\Programs\workspace\RobotGroup\LaserScanerVisualizer\LaderState\App.xaml
 41424548295
 
-22-689303195
-19594213657
+231528153474
+19-1293829668
 Calibration.xaml;CIPC\CIPCSettingWindow.xaml;CIPC\MainWindow.xaml;MainWindow.xaml;
 
-True
+False
 

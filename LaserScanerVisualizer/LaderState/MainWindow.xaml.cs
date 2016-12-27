@@ -68,8 +68,8 @@ namespace LaderState
         #endregion
 
 
-        //init
-        public MainWindow()
+        
+        public MainWindow() //init
         {
             InitializeComponent();
 
@@ -128,8 +128,7 @@ namespace LaderState
 
         }
 
-        //描画
-        #region
+        #region//描画
         void lineinit()
         {
             Point StartColumnPoint = new Point(0, 0);
@@ -628,8 +627,8 @@ namespace LaderState
 
         //button
         #region   
-        //Main Sick
-        #region
+        
+        #region//Main Sick
         private void button_sickconnect_Click(object sender, RoutedEventArgs e)
         {
             this.sick_Main.LMS100_init();
@@ -731,8 +730,8 @@ namespace LaderState
             this.ReadFileName.Text = System.IO.Path.GetFileName(ofd.FileName);
         }
         #endregion
-        //Robot
-        #region        
+
+        #region //Robot       
         private void Button_Save_RobotPos_Click(object sender, RoutedEventArgs e)
         {
             if (this.Button_Save_RobotPos.Content.ToString() == "ロボット座標取得開始")
@@ -834,8 +833,8 @@ namespace LaderState
             sick_Main.Position_Client_Sensor_x = Double.Parse(this.Text_Second_sensor_x.Text);
             sick_Main.Position_Client_Sensor_y = Double.Parse(this.Text_Second_sensor_y.Text);
         }
-        //Sound
-        #region
+
+        #region//Sound
         private void Button_Send_Robot_SoundData_Click(object sender, RoutedEventArgs e)
         {
             //sick_Main.CIPC_sender_Sounddata_robot(this.IPadress.Text, int.Parse(this.Remote_port.Text), int.Parse(this.Server_port.Text));
@@ -878,11 +877,9 @@ namespace LaderState
             //ロボット上のSickのデータを取る
             if (this.RB_Robot.IsChecked == true)
             {
-                this.sick_Robot.ConnectUDP(this.IP.Text, int.Parse(this.myport.Text));
-                this.sick_Main.Connect_Robot();
+                this.sick_Main.ConnectUDP_Robot(this.IP.Text, int.Parse(this.myport.Text));
                 this.Comment.Content = "Connect Robot SICK UDP";
-                clientName = "UDP:RobotSick";
-              
+                clientName = "UDP:RobotSick"; 
             }
             //SubSickのデータ取得UDP
             if (this.RB_SubSick.IsChecked == true)

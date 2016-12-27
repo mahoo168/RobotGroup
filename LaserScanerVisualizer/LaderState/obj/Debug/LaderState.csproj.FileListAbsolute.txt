@@ -1147,3 +1147,6 @@ D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\Calibration.baml
 D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.g.resources
 D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.Properties.Resources.resources
 D:\Programs\VisualStudio\SICK_改\LaderState\obj\Debug\LaderState.csproj.GenerateResource.Cache
+D:\Programs\workspace\RobotGroup\LaserScanerVisualizer\LaderState\bin\Debug\LaderState.exe.config
+D:\Programs\workspace\RobotGroup\LaserScanerVisualizer\LaderState\obj\Debug\LaderState.exe
+D:\Programs\workspace\RobotGroup\LaserScanerVisualizer\LaderState\obj\Debug\LaderState.pdb
